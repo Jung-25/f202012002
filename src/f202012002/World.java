@@ -1,0 +1,9 @@
+package f202012002;
+
+public class World {
+
+  public static void run() {
+    System.out.println("202012002");
+  }
+
+}
